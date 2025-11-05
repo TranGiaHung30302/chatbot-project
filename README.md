@@ -1,13 +1,13 @@
 # chatbot-project
+**INSTRUCTIONS TO SET UP AND RUN THE CHATBOT PROJECT**
+1. ** Download Ollama ** from https://ollama.com/download/windows and install it.
 
-Download Ollama from https://ollama.com/download/windows and install it.
-
-1. **Create a virtual environment**:
+2. **Create a virtual environment**:
    ```bash
    python -m venv venv
    ```
 
-2. **Activate the virtual environment**:
+3. **Activate the virtual environment**:
    - On Windows:
      ```bash
      venv\Scripts\activate
@@ -17,16 +17,16 @@ Download Ollama from https://ollama.com/download/windows and install it.
      source venv/bin/activate
      ```
 
-3. **Install the required dependencies**:
+4. **Install the required dependencies**:
    ```bash
    pip install -r requirements.txt
    ```
-4. **Pull the llama model**
+5. **Pull the llama model**
     ```bash
     ollama pull llama3.2:3b
     ```
 
-5. **Run the Streamlit application**:
+6. **Run the Streamlit application**:
    ```bash
    streamlit run app.py
    ```
