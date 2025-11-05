@@ -1,6 +1,6 @@
 # chatbot-project
 **INSTRUCTIONS TO SET UP AND RUN THE CHATBOT PROJECT**
-1. ** Download Ollama ** from https://ollama.com/download/windows and install it.
+1. **Download Ollama** from https://ollama.com/download/windows and install it.
 
 2. **Create a virtual environment**:
    ```bash
