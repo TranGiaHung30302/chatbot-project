@@ -2,7 +2,10 @@
 **INSTRUCTIONS TO SET UP AND RUN THE CHATBOT PROJECT**
 1. **Download Ollama** from https://ollama.com/download/windows and install it.
 
-2. **Clone** https://github.com/TranGiaHung30302/chatbot-project.git
+2. **Clone the repo** 
+    ```bash
+    git clone https://github.com/TranGiaHung30302/chatbot-project.git
+    ```
 
 3. **Navigate to the project directory**:
    ```bash
