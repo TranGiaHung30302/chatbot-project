@@ -1,5 +1,7 @@
 # chatbot-project
 
+Download Ollama from https://ollama.com/download/windows and install it.
+
 1. **Create a virtual environment**:
    ```bash
    python -m venv venv
