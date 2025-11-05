@@ -1,0 +1,9 @@
+streamlit
+
+langchain
+langchain-ollama
+ollama
+
+pydantic>=2.6,<3.0
+
+httpx>=0.24.0
