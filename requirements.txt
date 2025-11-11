@@ -4,6 +4,9 @@ langchain
 langchain-ollama
 ollama
 
+langchain_chroma
+langchain_community
+
 pydantic>=2.6,<3.0
 
 httpx>=0.24.0
