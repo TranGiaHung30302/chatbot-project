@@ -3,10 +3,10 @@ streamlit
 langchain
 langchain-ollama
 ollama
-
+sentence-transformers
 langchain_chroma
 langchain_community
-
+docx2txt
 pydantic>=2.6,<3.0
 
 httpx>=0.24.0
